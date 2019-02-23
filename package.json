@@ -1,0 +1,16 @@
+{
+  "name": "pym-packaging-scripts",
+  "private": true,
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "patr0nus",
+  "license": "MIT",
+  "dependencies": {
+    "fs-extra": "^7.0.1",
+    "rcedit": "^1.1.1"
+  }
+}
